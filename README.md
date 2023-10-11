@@ -31,6 +31,11 @@ animal’s needs
 Designed and developed website that can visualize sorting algorithms and data structures by different form of sorting
 ![Project 3](./images/project3.png)
 
+### Project 3: [SQL musuem](https://github.com/Maan-Khedr-ENSF-300/museum-project-simba.git)
+Develop and SQL model of a museum using different relations between classes and linking it 
+with python for the user interface
+
+![Project 3](./images/project3.png)
 ## Skills
 
 List your skills and technologies you're proficient in. Use icons or badges for a visually appealing touch.
