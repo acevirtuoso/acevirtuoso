@@ -14,8 +14,7 @@ Welcome to my developer portfolio! 🚀
 5. [Contact](#contact)
 
 ## About Me
-
-Share a bit about yourself, your background, and what drives you as a developer. Highlight your core values and the technologies you're passionate about.
+I'm Aly Mohamed, a 3rd year Software Engineering student with a minor in Biomedical Engineering. As a software engineering student, im on a mission to transform ideas into code. With a passion for problem-solving and a commitment to innovation, I'm driven to create impactful solutions through the art of programming. I'm a lifelong learner, a team player, and I'm excited to collaborate and contribute to projects that push the boundaries of what's possible in technology. Let's build a better future, one line of code at a time!
 
 ## Projects
 
