@@ -23,7 +23,7 @@ I'm Aly Mohamed, a 3rd year Software Engineering student with a minor in Biomedi
 ### Project 1: [HackTheChange](https://github.com/acevirtuoso/HackTheChange)
 Developed and launched a community-focused website with React, SQL, DynamoDB, and the City of Calgary Maps API. The platform allows users to rate neighborhood cleanliness, triggering sponsored community events upon reaching set thresholds. Events include cleanups, food distribution, and services, demonstrating proficiency in React for UI, SQL for data management, DynamoDB for scalability, and API integration for real-time mapping data. This project underscores my commitment to using technology for community improvement, showcasing diverse skills in web development and database management.
 
-[comment]: <> (![Project 2](./images/project2.gif)) 
+[comment]: < (![Project 2](./images/project2.gif)) >
 
 
 ### Project 2: [Data Structurer](https://github.com/acevirtuoso/Data-Structures.git)
