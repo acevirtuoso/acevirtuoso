@@ -22,33 +22,27 @@ I'm Aly Mohamed, a 3rd year Software Engineering student with a minor in Biomedi
 ## Projects
 ### Project 1: [HackTheChange]
 ([https://github.com/acevirtuoso/HackTheChange](https://github.com/acevirtuoso/HackTheChange))
-Developed and launched a community-focused website with React, SQL, DynamoDB, and the City of Calgary Maps API. The platform allows users to rate neighborhood cleanliness, triggering sponsored community events upon reaching set thresholds. Events include cleanups, food distribution, and services, demonstrating proficiency in React for UI, SQL for data management, DynamoDB for scalability, and API integration for real-time mapping data. This project underscores my commitment to using technology for community improvement, showcasing diverse skills in web development and database management.
+Developed and launched a community-focused website with React, SQL, DynamoDB, and the City of Calgary Maps API. The platform allows users to rate neighborhood cleanliness, triggering sponsored community events upon reaching set thresholds. Events include cleanups, food distribution, and services, demonstrating proficiency in React for UI, SQL for data management, DynamoDB for scalability, and API integration for real-time mapping data. 
 
-<!--- (![Project 2](./images/project2.gif)) -->
-
-### Project 1: [Fly-ght]
+### Project 2: [Fly-ght]
 ([https://github.com/acevirtuoso/Data-Structures.git](https://github.com/acevirtuoso/Fly-ght))
-Implemented a program that organizes nodes of a singly, doubly, Circular singly and Circular doubly Linked Lists
+Collaboratively designed and implemented the Fly-ght Airlines website, employing SQL, Spring Boot, and Postman for a user-friendly platform. Enabled users to effortlessly browse and book flights, select seats interactively, and make secure credit card payments. Implemented an automated email confirmation system for booked seats, ensuring a seamless user experience. Developed robust admin privileges for efficient flight data management, including the ability to delete flights and modify crew assignments. Enhanced user data security through a dedicated SQL database.
 
-### Project 2: [Obituary_maker]
+### Project 3: [Obituary_maker]
 ([https://github.com/acevirtuoso/Data-Structures.git](https://github.com/acevirtuoso/Obituary_maker))
-Implemented a program that organizes nodes of a singly, doubly, Circular singly and Circular doubly Linked Lists
-
-### Project 3: [Data Structurer]
-([https://github.com/acevirtuoso/Data-Structures.git](https://github.com/acevirtuoso/Data-Structures))
-Implemented a program that organizes nodes of a singly, doubly, Circular singly and Circular doubly Linked Lists
-<!---![Project 1](./images/project1.png-->)
+Designed and launched a React-based website with CSS for dynamic user interfaces and a visually engaging experience. The platform enables users to craft personalized obituaries by uploading a name and photo. Leveraged the ChatGPT API to dynamically generate random and customized obituaries, enhancing user engagement. Notably, the project includes a unique audio section where ChatGPT reads the AI-generated obituaries aloud, providing a distinctive and immersive experience. 
 
 ### Project 4: [Java_Farm_Scheduler]
 ([https://github.com/acevirtuoso/Java_Farm_Scheduler/tree/main](https://github.com/acevirtuoso/Java_Farm_Scheduler))
-Developed a scheduler GUI using java to optimize feeding, and cleaning times for each animal depending on each 
-animal’s needs 
-<!---![Project 2](./images/project2.gif-->)
+Engineered a Java-based Scheduler Graphical User Interface (GUI) tailored for animal caretakers. The system efficiently processes an SQL file containing diverse animals with unique care requirements, such as feeding time, materials, cleaning time, and sleeping time. The program optimizes scheduling to prevent conflicts, ensuring all animals receive necessary care.
 
-### Project 5: [SQL musuem](https://github.com/Maan-Khedr-ENSF-300/museum-project-simba.git)
-Develop and SQL model of a museum using different relations between classes and linking it 
-with python for the user interface
+### Project 5: [SQL musuem]
+([https://github.com/Maan-Khedr-ENSF-300/museum-project-simba.git](https://github.com/Maan-Khedr-ENSF-300/museum-project-simba))
+Collaborated in a team to design and implement an SQL model for a museum, capturing detailed information on art pieces, prices, and creators. Established a structured database with various class relationships. Integrated the SQL model with Python using the Pandas library for sophisticated data analysis on each art piece through dataframes. 
 
+### Project 6: [Data Tree Structure]
+([https://github.com/acevirtuoso/Data-Structures.git](https://github.com/acevirtuoso/Data-Structures))
+Developed a Python program that organizes nodes in singly, doubly, circular singly, and circular doubly linked lists using various sorting algorithms.
 
 ## Contact
 
