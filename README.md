@@ -45,5 +45,5 @@ Developed a Python program that organizes nodes in singly, doubly, circular sing
 ## Contact
 
 - 📧 Email: Aly.mohamed@ucalgary.ca
-- 🌐 Website: [acevirtuoso](https://acevirtuoso.github.io))
+- 🌐 Website: [acevirtuoso](https://acevirtuoso.github.io)
 - 💼 LinkedIn: [linkedin.com/in/Aly-Mohamed](https://www.linkedin.com/in/aly-mohamed-9126a8264/)
