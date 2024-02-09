@@ -1,8 +1,7 @@
 # My Developer Portfolio
 
  <img style="width:6vh;padding:5px"
-src= "https://media2.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif" alt = "gif image" />Welcome to my developer portfolio! 🚀
-
+src= "https://media2.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif" alt = "gif image" />
 👋 Hello, I'm [Aly Mohamed](https://acevirtuoso.github.io), I am a third year software engineering student of problem solving and behavioral science. This GitHub repository serves as a showcase of my work, projects, and skills.
 
 <h3 align="left">Languages and Tools:</h3>
